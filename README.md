@@ -15,6 +15,7 @@ Target Audience:
 What needs improvement(Wish list):
 - Time spent listening to one specific genre per day
 - Names of artists most often listened to
+- Greater breadth of data ages
 
 Source of Data:
 https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results?resource=download
