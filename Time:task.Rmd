@@ -1,0 +1,19 @@
+---
+title: "TimeLog Chart"
+output: html_document
+date: "2023-10-11"
+---
+```{r}
+
+library(ggplot2)
+options(stringsAsFactors = FALSE)
+df <- read.csv("TimeLog.csv")
+p <- ggplot(data = df, aes(x=Week, y=Time.Spent.In.hours.)) +
+       geom_line()
+p
+```
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
