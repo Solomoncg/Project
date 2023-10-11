@@ -1,12 +1,13 @@
 # Project
+Project Video Link: https://youtu.be/tvhyly95m7s
 Project purpose:
 To identify the relationships between Anxiety, depression and insomnia versus certain genres of music.
 Questions to answer:
-Do any of the given mental health categories have a high relationship between any musical genres?
+Do any of the given mental health issues have a high relationship between any musical genres?
 
--   Do any genress seem to improve the person listening's mood more than other?
--   Do any genres make the user feel worse?
--   are any of these relationships more prevalent in certain age ranges?
+-   Does the frequency that you listen to a genre correlate a mental health issue?
+    - Is this more prevalent among people's favorite genres? 
+-   Is there a significant correlation between certain mental health issues and Age?
 
 Target Audience:
 - Those afflicted with insomnia, depression and/or insomnia
