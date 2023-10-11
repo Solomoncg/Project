@@ -18,6 +18,19 @@ What needs improvement(Wish list):
 - Names of artists most often listened to
 - Greater breadth of data ages
 
+To Make Reproducible:
+    The data collection for frequency did so with non-numeric phrases, so converting those to a useable numeric metric is important
+    Some of the ages were omitted from peoples submission of the form so those rows, when using the ages can't be used.
+    Most of the data was well maintained.
+
+Design Choices:
+    Histograms were used to show the distribution of data based on responses. The last tab of 3 histograms used different colors 
+    to impart visual clarity.
+    The scatterplot was used to illustrate the lack of correlation via visual means.
+    Correlation matrix was used to give an evaluation of the actual correlation between the genres and the mental health issues for those
+    more interested in the details of the data.
+
+
 Source of Data:
 https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results?resource=download
 Author:
